@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">group6_COMP304Sec001_Lab04_ex1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="main_heading">Toronto Landmarks</string>
+    <string name="main_subheading">Select a type to start exploring!</string>
+    <string name="landmark_name">Landmark Name</string>
+    <string name="landmark_address">Landmark Address</string>
+    <string name="landmark_type">Landmark Type</string>
+
+    <string name="title_activity_detail_landmark">Detail Landmark</string>
+
+
+</resources>
